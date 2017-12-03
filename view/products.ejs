@@ -1,0 +1,20 @@
+<%- include('header') %>
+<h1>Автовозы</h1>
+<% data.forEach(item => { %>
+<div class="col-md-12 productItem">
+    <h3><%- item.title%></h3>
+    <div class="row">
+        <div class="col-md-12">
+            <%- item.description%>
+        </div>
+    </div>
+    <div class="row">
+        <% item.images.forEach(image => {%>
+          <div class="col-md-3 col-sm-3 col-xs-6">
+              <a href="/images/products/<%- image.image %>" data-fancybox="true"><img src="/images/products/<%- image.thumbnail%>" class="img-thumbnail"></a>
+          </div>
+        <% }) %>
+    </div>
+</div>
+<% }) %>
+<%- include('footer') %>
