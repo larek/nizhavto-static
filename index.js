@@ -19,6 +19,10 @@ app.get('/contacts', (req, res) => {
   res.render(path.join(__dirname, './view/contacts'));
 })
 
+app.get('/distance', (req, res) => {
+  res.render(path.join(__dirname, './view/distance'));
+})
+
 app.listen(3000, () => {
   console.log("http://localhost:3000");
 });
