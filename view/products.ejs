@@ -2,7 +2,7 @@
 <h1>Автовозы</h1>
 <% data.forEach(item => { %>
 <div class="col-md-12 productItem">
-    <h3><%- item.title%></h3>
+    <a href="/products/<%- item.slug%>"><h3><%- item.title%></h3></a>
     <div class="row">
         <div class="col-md-12">
             <%- item.description%>
