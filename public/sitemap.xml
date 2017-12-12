@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://nizhavto.ru/</loc>
+  <lastmod>2017-12-12T10:18:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://nizhavto.ru/products</loc>
+  <lastmod>2017-12-12T10:18:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nizhavto.ru/distance</loc>
+  <lastmod>2017-12-12T10:18:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nizhavto.ru/contacts</loc>
+  <lastmod>2017-12-12T10:18:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nizhavto.ru/products/avtovoz-volvo-fh12</loc>
+  <lastmod>2017-12-12T10:18:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://nizhavto.ru/products/avtovoz-scania-r340</loc>
+  <lastmod>2017-12-12T10:18:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://nizhavto.ru/products/avtovoz-man</loc>
+  <lastmod>2017-12-12T10:18:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://nizhavto.ru/products/avtovoz-evakuator-valday</loc>
+  <lastmod>2017-12-12T10:18:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://nizhavto.ru/products/evakuator-hyunday-hd78</loc>
+  <lastmod>2017-12-12T10:18:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
