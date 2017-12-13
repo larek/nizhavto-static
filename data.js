@@ -50,5 +50,16 @@ module.exports =  [
       { thumbnail: 'product-5-5-thumbnail.jpg', image: 'product-5-5.jpg' },
       { thumbnail: 'product-5-6-thumbnail.jpg', image: 'product-5-6.jpg' }
     ]
+  },
+  {
+    slug: 'avtovoz-renault-t430',
+    title: 'Автовоз RENAULT T430',
+    description: '<ul><li>Низкорамный прицеп автовоз</li><li>ширина 2,55м.</li><li>длинна 17.5 м.</li><li>Мак. погрузочнаявысота 3,10 м.</li></ul>',
+    images: [
+      {thumbnail: 'product6/1-thumb.jpg', image: 'product6/1.jpg'},
+      {thumbnail: 'product6/2-thumb.jpg', image: 'product6/2.jpg'},
+      {thumbnail: 'product6/3-thumb.jpg', image: 'product6/3.jpg'},
+      {thumbnail: 'product6/4-thumb.jpg', image: 'product6/4.jpg'},
+    ]
   }
 ]
