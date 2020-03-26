@@ -31,6 +31,6 @@ app.get('/distance', (req, res) => {
   res.render(path.join(__dirname, './view/distance'), { title: 'Расчет расстояний' });
 })
 
-app.listen(3000, () => {
+app.listen(80, () => {
   console.log("http://localhost:3000");
 });
